@@ -3,5 +3,7 @@
 В нем поучаствовал *21 человек*
 ### Прикрепляю ссылку на опрос:
 [опрос](https://docs.google.com/forms/d/1BtvdQ222EtdKX_pleLPTYWmM8fmibmC3rykrTimdfTs/edit)
+### Прикрепляю ссылку на таблицу:
+[таблица](https://docs.google.com/spreadsheets/d/1_c2sE5Q7SmPAcwC69UJ1q6ZgncRlSjIwUpGaVJNI23s/edit#gid=302178026&fvid=25774328)
 
  
